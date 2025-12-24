@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ```
 pip install -r requirements_mamba.txt
 ```
-If **requirements_mamba.txt** fails to install, possibly due to network fluctuations, you can also check the emready_mamba environment using the following two lines of code and download the corresponding version from the official website.
+If **requirements_mamba.txt** fails to install, possibly due to network fluctuations, you can also check the "emready" environment using the following two lines of code and download the corresponding version from the official website.
 
 **Check the torch version and cuda version**
 ```python
@@ -73,7 +73,7 @@ False or True
 Download **causal-conv1d==1.4.0** from [https://github.com/Dao-AILab/causal-conv1d/releases](https://github.com/Dao-AILab/causal-conv1d/releases)
 Download **mamba-ssm==2.2.2** from [https://github.com/state-spaces/mamba/releases](https://github.com/state-spaces/mamba/releases)
 
-Manually install it locally in the emready_mamba environment, replacing 'xxx' with the corresponding version.
+Manually install it locally in the "emready2" environment, replacing 'xxx' with the corresponding version.
 ```
 pip install causal_conv1d-1.4.0_xxx.whl
 pip install mamba_ssm-2.2.2_xxx.whl
