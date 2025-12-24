@@ -50,11 +50,8 @@ pip install -r requirements.txt
 ```
 pip install -r requirements_mamba.txt
 ```
-<<<<<<< HEAD
-If **requirements_mamba.txt** fails to install, possibly due to network fluctuations, you can also check the "emready" environment using the following two lines of code and download the corresponding version from the official website.
-=======
+
 If **requirements_mamba.txt** fails to install, possibly due to network fluctuations, you can also check the emready2 environment using the following two lines of code and download the corresponding version from the official website.
->>>>>>> 0f4d0b1928f73b7a5f94322285b478d6f96485ab
 
 **Check the torch version and cuda version**
 ```python
